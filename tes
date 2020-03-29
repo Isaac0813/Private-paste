@@ -1,0 +1,10 @@
+{ 
+  "user":[
+    { 
+    "id":1,
+    "name":"aniceta",
+    "age":16,
+    "married":"no"
+    }
+  ]
+}
